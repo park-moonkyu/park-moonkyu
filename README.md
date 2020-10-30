@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpark-moonkyu&count_bg=%23FD0A00&title_bg=%232A0EFF&icon=gofundme.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
-## Machine Learning Engineer & Data Scientist
+## Junior Machine Learning Engineer & Data Scientist
 - I like to release useful services using data.
 - It utilizes these data, various ML,DL technologies.
 - There are many great technologies, but they actually try to develop the skills that users need.
