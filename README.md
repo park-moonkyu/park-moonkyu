@@ -7,7 +7,7 @@
 ## Junior Machine Learning Engineer & Data Scientist
 - Release useful services using data.
 - Utilizes Variety Big data, ML,DL technologies.
-- Try to make USEFUL service that actually users need.
+- Try to make USEFUL end to end service that actually users need.
 - Value growth together through various studies and community activities.
 
  ## Interest
