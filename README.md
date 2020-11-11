@@ -5,10 +5,10 @@
 </div>
 
 ## Junior Machine Learning Engineer & Data Scientist
-- I like to release useful services using data.
-- It utilizes these data, various ML,DL technologies.
-- There are many great technologies, but they actually try to develop the skills that users need.
-- I value growth together through various studies and community activities.
+- Release useful services using data.
+- Utilizes Variety Big data, ML,DL technologies.
+- Try to make USEFUL service that actually users need.
+- Value growth together through various studies and community activities.
 
  ## Interest
 - MLOps
