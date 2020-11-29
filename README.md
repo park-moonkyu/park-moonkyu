@@ -12,10 +12,11 @@
 
  ## Interest
 - MLOps
-- Cloud
-- Python 
-- RPA  / OCR
+- Cloud(Bigquery, dataflow, etc.)
+- Python & Tensorflow 
+- RPA(Power Automate) / OCR
 - Leadership, Writing, Presentation
+- Community(Tensorflow KR, Kaggle KR, etc.)
 
 
 <div align=center>
