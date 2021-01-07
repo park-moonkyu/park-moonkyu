@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpark-moonkyu&count_bg=%23FD0A00&title_bg=%232A0EFF&icon=gofundme.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
-## Junior Machine Learning Engineer & Data Scientist
+## Junior Technology Evangelist
 - Release useful services using data.
 - Utilizes Variety Big data, ML,DL technologies.
 - Try to make USEFUL end to end service that actually users need.
@@ -12,7 +12,7 @@
 
  ## Interest
 - MLOps
-- Cloud(Bigquery, dataflow, etc.)
+- Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.)
 - Python & Tensorflow 
 - RPA(Power Automate) / OCR
 - Leadership, Writing, Presentation
