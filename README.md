@@ -5,16 +5,15 @@
 </div>
 
 ## Junior Technology Evangelist
-
+- Using Cloud 
 - Release useful services using data.
 - Utilizes Variety Big data, ML,DL technologies.
 - Try to make USEFUL end to end service that actually users need.
 - Value growth together through various studies and community activities.
 
  ## Interest
- 
+- Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.) 
 - MLOps
-- Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.)
 - Python & Tensorflow 
 - RPA(Power Automate) / OCR
 - Leadership, Writing, Presentation
