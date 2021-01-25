@@ -12,8 +12,8 @@
 - Value growth together through various studies and community activities.
 
  ## Interest
-- Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.) 
-- MLOps
+- Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.)
+- Kubernetes
 - Python & Tensorflow 
 - RPA(Power Automate) / OCR
 - Leadership, Writing, Presentation
