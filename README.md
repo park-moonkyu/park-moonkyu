@@ -13,7 +13,7 @@
 
  ## Interest
 - Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.)
-- Kubernetes
+- Kubernetes & MSA
 - Python & Tensorflow 
 - RPA(Power Automate) / OCR
 - Leadership, Writing, Presentation
