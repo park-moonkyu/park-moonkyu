@@ -12,7 +12,7 @@
 - Value growth together through various studies and community activities.
 
  ## Interest
-- Cloud(NaverCloudPlatform, Bigquery, dataflow, etc.)
+- Cloud(NCP, GCP(Bigquery) , dataflow, etc.)
 - Kubernetes & MSA
 - Python & Tensorflow 
 - RPA(Power Automate) / OCR
