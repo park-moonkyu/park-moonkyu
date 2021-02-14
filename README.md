@@ -12,7 +12,7 @@
 - Using Cloud
 
  ## Interest
-- Cloud( NaverCloudPlatform, GCP(Bigquery) , dataflow, etc.)
+- Cloud(NCP, GCP(Bigquery) , dataflow, etc.)
 - Kubernetes & Micro Services
 - Python & Tensorflow 
 - RPA(Power Automate) / OCR
