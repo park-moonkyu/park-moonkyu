@@ -16,7 +16,7 @@
 - Cloud(NCP, GCP, dataflow, etc.)
 - Kubernetes & MSA
 - Python & Tensorflow 
-- RPA(Power Automate) / OCR
+- RPA / OCR
 - Leadership, Writing, Presentation
 - Community(Tensorflow KR, Kaggle KR, etc.)
 
