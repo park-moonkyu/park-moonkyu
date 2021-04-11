@@ -12,7 +12,6 @@
 - Value growth together through various studies and community activities.
 - Using Cloud
   
-  
  ## Interest
 - Cloud(NCP, GCP, dataflow, etc.)
 - Kubernetes & MSA
