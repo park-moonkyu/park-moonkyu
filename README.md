@@ -15,9 +15,9 @@
 - Using Cloud
   
  ## Interest
-- Cloud(NCP, GCP, dataflow, etc.)
-- Kubernetes & MSA
-- Python & Tensorflow 
+- Cloud(NCP, GCP, AWS, Azure etc.)
+- Machine Learning & Deep Learning
+- Python 
 - RPA / OCR
 - Leadership, Writing, Presentation
 - Community(Tensorflow KR, Kaggle KR, etc.)
