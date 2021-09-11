@@ -12,10 +12,10 @@
 - Using Cloud
   
  ## Interest
-- Cloud(NCP, GCP, AWS, Azure etc.)
+- Public Cloud(NCP, GCP, AWS, Azure)
 - Machine Learning & Deep Learning
-- Python 
-- RPA / OCR
+- Python(DjangGo, Flask) 
+- Linux
 - Leadership, Writing, Presentation
 - Community(Tensorflow KR, Kaggle KR, etc.)
 
